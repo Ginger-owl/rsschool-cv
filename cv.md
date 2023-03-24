@@ -4,9 +4,9 @@
 *телеграм: @hereiamruslan* <br>
 *телефон: +995-599-131-275(🇬🇪)*
 
-Junior web-developer with commerical experience with small projects, sincere interest in design and enormous wilingness to grow professionally
+Начинающий веб-разработчик с опытом работы в небольних коммерческих проектах, искренним интересом к дизайну и огромны желанием расти профессионально
 
-### Skills
+### Навыки
  - HTML
  - CSS
  - Javascript
@@ -17,9 +17,9 @@ Junior web-developer with commerical experience with small projects, sincere int
  - Git
  - Figma
 
-### Code snippet
+### Пример кода
 ```
-// function for copying maps
+// функция для копирования мапов
 function copyMap(map) {
     const clonedMap = new Map()
 
@@ -30,19 +30,19 @@ function copyMap(map) {
 }
 ```
 
-### Experience
-#### Junior Fullstack Developer
+### Опыт работы
+#### Веб-разработчик / Верстальщик
 **05/2022 - present time** 
 
->Improving, refatoring and adding new functionality for e-commerce website and its admin panel.<br>
->Developing integration with analytics APIs
+>Доработка и рефакторинг кода, добавление новой функциональности на сайт интернет-магазина и в его админку.<br>
+>Доработка интеграций с API аналитических и платежных сервисов
 
 ### Education 
-**Bachelor of Social Sciences and Management** - MAI, Moscow, 2016 <br>
-**Master of Economics** - MSU, Moscow, 2017 <br>
-**Introduction to Communication Science** - UvA, Amsterdam, 2017 <br>
-**Web-parsing with Python** - Stepik, 2022 
+**Бакалавр Социологии** - МАИ, Москва, 2016 <br>
+**Магистр Экономики труда** - МГУ, Москва, 2017 <br>
+**Введение в теорию Коммуникаций** - Университет Амстердама, Амстердама, 2017 <br>
+**Парсинг на Python** - Степик, 2022 
 
 ### Английский язык
 
-**C1** - fleuncy, substantial work experience in customer sipport of international customers 
+**C1** - свободное владение, значительный опыт работы в клиентском сервисе с международными клиентами 
